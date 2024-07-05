@@ -1,13 +1,13 @@
 [app]
 
 # (str) Title of your application
-title = MyApp
+title = csvapp
 
 # (str) Package name
-package.name = myapp
+package.name = csvapp
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = mdabidhossain.xyz
+package.domain = org,test
 
 # (str) Source code directory
 source.dir = .
